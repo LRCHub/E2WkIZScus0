@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "WHOOO",
+  "base_artist": "OZROSAURUS",
+  "createdAt": "2026-03-09T18:15:49.834568Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Whooo",
+      "artist": "4Lyn",
+      "has_synced": true,
+      "path": "select/01_Whooo_4Lyn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Whooo",
+      "artist": "4 Lyn",
+      "has_synced": true,
+      "path": "select/02_Whooo_4_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Whooo (Machine Mix)",
+      "artist": "4LYN",
+      "has_synced": false,
+      "path": "select/03_Whooo_(Machine_Mix)_4LYN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Whooo (Mirror Ball Mix)",
+      "artist": "4LYN",
+      "has_synced": false,
+      "path": "select/04_Whooo_(Mirror_Ball_Mix)_4LYN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Whooo (Soccer Slam Version)",
+      "artist": "4LYN",
+      "has_synced": false,
+      "path": "select/05_Whooo_(Soccer_Slam_Version)_4LYN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whooo (Single Version)",
+      "artist": "4LYN",
+      "has_synced": true,
+      "path": "select/06_Whooo_(Single_Version)_4LYN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Whooo",
+      "artist": "4LYN",
+      "has_synced": false,
+      "path": "select/07_Whooo_4LYN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "WHOOO",
+      "artist": "OZROSAURUS",
+      "has_synced": true,
+      "path": "select/08_WHOOO_OZROSAURUS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Whooo (Live)",
+      "artist": "4Lyn",
+      "has_synced": false,
+      "path": "select/09_Whooo_(Live)_4Lyn.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Whooo",
+      "artist": "4LYN",
+      "has_synced": true,
+      "path": "select/10_Whooo_4LYN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "WHOOO",
+      "artist": "OZROSAURUS",
+      "has_synced": false,
+      "path": "select/11_WHOOO_OZROSAURUS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHOOO",
+      "artist": "OZROSAURUS",
+      "has_synced": false,
+      "path": "select/pl_01_WHOOO_OZROSAURUS.txt"
+    }
+  ]
+}
